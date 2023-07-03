@@ -1,1 +1,1 @@
-# k.popov
+# L2 A1QA Internship Database project
